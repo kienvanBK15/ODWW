@@ -1,7 +1,7 @@
-<annotation>
+<annotation verified="yes">
 	<folder>images</folder>
 	<filename>30.jpg</filename>
-	<path>/mnt/DATA/Project/2019/WW/object_detection_demo/data/images/30.jpg</path>
+	<path>/mnt/DATA/Project/2019/WW/Object-Detection/data/images/30.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>35</xmin>
-			<ymin>53</ymin>
-			<xmax>696</xmax>
+			<xmin>33</xmin>
+			<ymin>54</ymin>
+			<xmax>697</xmax>
 			<ymax>497</ymax>
 		</bndbox>
 	</object>
