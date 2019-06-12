@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>643.jpg</filename>
+	<path>C:\Users\Van Stephen\Documents\BK Project\NCKH\Verichains\ODWW\data\images\643.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cmnd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>140</ymin>
+			<xmax>726</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>
