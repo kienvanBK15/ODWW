@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>63.jpg</filename>
-	<path>C:\Users\Nguyen Tri Chan Hung\Desktop\Image Detect\ODWW-develop\data\images\63.jpg</path>
+	<path>/mnt/DATA/Project/2019/WW/ODWW/data/images/63.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>145</ymin>
-			<xmax>638</xmax>
+			<xmin>16</xmin>
+			<ymin>140</ymin>
+			<xmax>642</xmax>
 			<ymax>465</ymax>
 		</bndbox>
 	</object>
