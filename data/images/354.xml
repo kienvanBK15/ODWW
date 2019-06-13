@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>354.jpg</filename>
-	<path>C:\Users\Van Stephen\Documents\BK Project\NCKH\Verichains\ODWW\data\images\354.jpg</path>
+	<path>/mnt/DATA/Project/2019/WW/ODWW/data/images/354.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>69</xmin>
-			<ymin>30</ymin>
+			<xmin>95</xmin>
+			<ymin>27</ymin>
 			<xmax>721</xmax>
 			<ymax>506</ymax>
 		</bndbox>
